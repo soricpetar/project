@@ -1,2 +1,5 @@
 *.zip
 /ERC20-stablecoins
+*.html
+*.png
+/lib
